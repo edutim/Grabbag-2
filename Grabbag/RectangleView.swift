@@ -10,7 +10,7 @@ import SwiftUI
 struct RectangleView: View {
     var body: some View {
 Rectangle()
-            .fill(.blue)
+            .fill(.red)
             .frame(width:200, height:200)
     }
 }
